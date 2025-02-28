@@ -1,0 +1,2537 @@
+
+{
+    "type": "object",
+    "properties": {
+        "string-input-231:429:458:377:21:71:13": {
+            "type": "string",
+            "default": "Unit",
+            "description": "Enter Description",
+            "example": "Unit"
+        },
+        "string-input-231:429:452:377:382:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-231:429:482:42:10": {
+            "type": "string",
+            "default": "Production",
+            "description": "Enter Description",
+            "example": "Production"
+        },
+        "string-input-231:429:452:377:382:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:482:42:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "string-input-231:429:458:377:21:71:10": {
+            "type": "string",
+            "default": "%",
+            "description": "Enter Description",
+            "example": "%"
+        },
+        "single-selection-231:364:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Brazilian arabica coffee"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Brazilian arabica coffee"
+            }
+        },
+        "single-selection-231:385:424:377:383:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Others"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Others"
+            }
+        },
+        "single-selection-231:429:452:457:96:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "default_1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "default_1"
+            }
+        },
+        "string-input-231:383:407:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:407:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022"
+        },
+        "single-selection-231:429:460:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Informal employment rate of agricultural workers & uncovered by social protection floors/systems"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Informal employment rate of agricultural workers & uncovered by social protection floors/systems"
+            }
+        },
+        "single-selection-231:429:483:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Informal employment rate of agricultural workers & uncovered by social protection floors/systems"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Informal employment rate of agricultural workers & uncovered by social protection floors/systems"
+            }
+        },
+        "multiple-selection-231:429:453:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:383:394:400:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "single-selection-450:438:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "currency"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "currency"
+            }
+        },
+        "single-selection-231:383:387:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "single-selection-231:429:471:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Wage gap from gender discrimination"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Wage gap from gender discrimination"
+            }
+        },
+        "string-input-231:383:394:400:10": {
+            "type": "string",
+            "default": "Cow milk, semi-skimmed, UHT",
+            "description": "Enter Description",
+            "example": "Cow milk, semi-skimmed, UHT"
+        },
+        "multiple-selection-231:429:484:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:383:428:282:286:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:383:428:282:286:10": {
+            "type": "string",
+            "default": "Coffee, Average",
+            "description": "Enter Description",
+            "example": "Coffee, Average"
+        },
+        "single-selection-231:27:431:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Fine particulate matter formation"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Fine particulate matter formation"
+            }
+        },
+        "string-input-231:429:424:377:386:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:424:377:382:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:424:377:386:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:424:377:382:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "single-selection-231:384:424:377:396:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "wri_agriculture_linked_deforest"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "wri_agriculture_linked_deforest"
+            }
+        },
+        "single-selection-231:429:424:377:74:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "DLS"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "DLS"
+            }
+        },
+        "new-header-231:27:425:377:378:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "string-input-231:383:386:401:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:383:386:401:10": {
+            "type": "string",
+            "default": "Sugar",
+            "description": "Enter Description",
+            "example": "Sugar"
+        },
+        "single-selection-231:383:426:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "fix"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "fix"
+            }
+        },
+        "single-selection-231:27:430:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Fine particulate matter formation"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Fine particulate matter formation"
+            }
+        },
+        "single-selection-231:429:424:377:26:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "single-selection-231:429:456:377:462:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Data"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Data"
+            }
+        },
+        "single-selection-231:383:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:389:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Cocoa beans, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Cocoa beans, 2022"
+        },
+        "string-input-231:429:482:429:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "string-input-231:429:482:429:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "string-input-231:383:389:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:386:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "single-selection-231:383:398:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:386:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "string-input-231:429:424:377:386:392:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "string-input-231:384:443:236": {
+            "type": "string",
+            "default": "Practices shift (gain)",
+            "description": "Enter Description",
+            "example": "Practices shift (gain)"
+        },
+        "string-input-231:429:452:457:99:187:194:10": {
+            "type": "string",
+            "default": "Adapted from: Our World in data, Average weekly working hours of children, 2024 (based on Pakistan and Bangladesh)",
+            "description": "Enter Description",
+            "example": "Adapted from: Our World in data, Average weekly working hours of children, 2024 (based on Pakistan and Bangladesh)"
+        },
+        "single-selection-231:429:458:377:119:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Leaves"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Leaves"
+            }
+        },
+        "single-selection-231:27:431:239": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Transport, Field to Storage"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Transport, Field to Storage"
+            }
+        },
+        "string-input-231:429:424:377:386:392:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "string-input-231:429:452:457:99:187:194:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "single-selection-454:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Brazilian robusta coffee"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Brazilian robusta coffee"
+            }
+        },
+        "string-input-231:384:424:377:382:16:10": {
+            "type": "string",
+            "default": "Elizabeth Goldman, Mikaela Weisse, Nancy Harris and Tina Schneider, Estimating the Role of Seven Commodities in Agriculture-Linked Deforestation: Oil Palm, Soy, Cattle, Wood Fiber, Cocoa, Coffee, and Rubber, World Resources Institute, 2020",
+            "description": "Enter Description",
+            "example": "Elizabeth Goldman, Mikaela Weisse, Nancy Harris and Tina Schneider, Estimating the Role of Seven Commodities in Agriculture-Linked Deforestation: Oil Palm, Soy, Cattle, Wood Fiber, Cocoa, Coffee, and Rubber, World Resources Institute, 2020"
+        },
+        "string-input-231:384:424:377:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "new-header-231:27:424:377:383:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "multiple-selection-231:385:430:234": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Aldicarb"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Aldicarb"
+                ]
+            }
+        },
+        "string-input-231:385:424:377:21:15:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "string-input-231:385:424:377:21:15:10": {
+            "type": "string",
+            "default": "Consumption",
+            "description": "Enter Description",
+            "example": "Consumption"
+        },
+        "single-selection-231:385:424:377:384:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Matchers"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Matchers"
+            }
+        },
+        "single-selection-471:220:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "product-sheet"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "product-sheet"
+            }
+        },
+        "string-input-231:383:413:401:10": {
+            "type": "string",
+            "default": "Almond milk",
+            "description": "Enter Description",
+            "example": "Almond milk"
+        },
+        "string-input-231:429:424:377:387:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-231:429:452:457:99:21:10": {
+            "type": "string",
+            "default": "h/week",
+            "description": "Enter Description",
+            "example": "h/week"
+        },
+        "single-selection-450:147:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "exchange"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "exchange"
+            }
+        },
+        "string-input-231:385:424:441:430:10": {
+            "type": "string",
+            "default": "2018",
+            "description": "Enter Description",
+            "example": "2018"
+        },
+        "single-selection-231:429:461:52:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "FTE"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "FTE"
+            }
+        },
+        "string-input-231:385:424:441:430:13": {
+            "type": "string",
+            "default": "Years",
+            "description": "Enter Description",
+            "example": "Years"
+        },
+        "single-selection-231:383:410:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:429:452:377:462:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:458:377:382:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-231:429:424:377:387:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:458:377:382:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:452:377:462:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:452:457:99:21:13": {
+            "type": "string",
+            "default": "Unit",
+            "description": "Enter Description",
+            "example": "Unit"
+        },
+        "string-input-231:383:407:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:429:479:42:10": {
+            "type": "string",
+            "default": "Production",
+            "description": "Enter Description",
+            "example": "Production"
+        },
+        "string-input-231:429:479:429:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "string-input-231:383:407:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "string-input-231:383:413:401:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:429:479:429:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "single-selection-231:383:268:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "yield gap"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "yield gap"
+            }
+        },
+        "string-input-231:383:399:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "single-selection-231:429:487:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Cases of non-fatal occupational injury by economic activity, uninsured"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Cases of non-fatal occupational injury by economic activity, uninsured"
+            }
+        },
+        "string-input-231:385:424:377:21:42:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "string-input-231:429:479:42:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "string-input-231:429:462:377:386:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:383:399:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:429:462:377:386:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:385:424:377:21:13:13": {
+            "type": "string",
+            "default": "Ingredient",
+            "description": "Enter Description",
+            "example": "Ingredient"
+        },
+        "new-header-450:144:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "string-input-231:383:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:382:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Coffee beans, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Coffee beans, 2022"
+        },
+        "string-input-231:385:424:377:21:13:10": {
+            "type": "string",
+            "default": "Coffee beans",
+            "description": "Enter Description",
+            "example": "Coffee beans"
+        },
+        "string-input-231:429:461:88:25:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "multiple-selection-231:429:454:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:429:482:430:13": {
+            "type": "string",
+            "default": "Age",
+            "description": "Enter Description",
+            "example": "Age"
+        },
+        "string-input-231:429:482:430:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "single-selection-231:429:456:377:461:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Slavery"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Slavery"
+            }
+        },
+        "string-input-231:429:461:88:25:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:479:430:13": {
+            "type": "string",
+            "default": "Age",
+            "description": "Enter Description",
+            "example": "Age"
+        },
+        "string-input-231:429:479:430:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "multiple-selection-231:429:472:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:383:382:405:10": {
+            "type": "string",
+            "default": "Coffee beans",
+            "description": "Enter Description",
+            "example": "Coffee beans"
+        },
+        "string-input-231:383:412:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "string-input-231:383:382:405:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "new-header-231:429:456:377:105:92:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "string-input-231:383:412:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:429:485:429:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "single-selection-231:429:461:106:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "default_1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "default_1"
+            }
+        },
+        "single-selection-450:143:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Data"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Data"
+            }
+        },
+        "string-input-231:384:444:236": {
+            "type": "string",
+            "default": "Deforestation (loss)",
+            "description": "Enter Description",
+            "example": "Deforestation (loss)"
+        },
+        "single-selection-231:429:456:377:106:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Forced-Workers"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Forced-Workers"
+            }
+        },
+        "single-selection-231:429:452:457:98:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Legal-Hours"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Legal-Hours"
+            }
+        },
+        "string-input-231:429:482:431:10": {
+            "type": "string",
+            "default": "Livelihoods",
+            "description": "Enter Description",
+            "example": "Livelihoods"
+        },
+        "string-input-231:429:458:377:468:194:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:399:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Agriculture land, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Agriculture land, 2022"
+        },
+        "string-input-231:429:458:377:468:194:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:482:431:13": {
+            "type": "string",
+            "default": "Impact Category",
+            "description": "Enter Description",
+            "example": "Impact Category"
+        },
+        "string-input-231:429:461:107:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:485:429:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "string-input-231:383:399:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:452:377:452:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-450:144:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:452:377:452:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "single-selection-231:429:466:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Cases of non-fatal occupational injury by economic activity, uninsured"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Cases of non-fatal occupational injury by economic activity, uninsured"
+            }
+        },
+        "string-input-450:144:16:10": {
+            "type": "string",
+            "default": "World Bank, Inflation (annual %), 2024",
+            "description": "Enter Description",
+            "example": "World Bank, Inflation (annual %), 2024"
+        },
+        "string-input-231:429:452:377:453:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:385:424:377:21:42:10": {
+            "type": "string",
+            "default": "Consumption",
+            "description": "Enter Description",
+            "example": "Consumption"
+        },
+        "string-input-231:429:462:377:451:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "single-selection-231:429:452:377:461:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:429:462:377:451:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:452:377:453:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-231:383:382:400:10": {
+            "type": "string",
+            "default": "Coffee beans",
+            "description": "Enter Description",
+            "example": "Coffee beans"
+        },
+        "single-selection-231:383:400:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "product-table"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "product-table"
+            }
+        },
+        "string-input-231:383:382:400:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:429:461:107:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "single-selection-231:429:477:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Prevalence of Forced workers in situations of debt bondage"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Prevalence of Forced workers in situations of debt bondage"
+            }
+        },
+        "new-header-231:27:427:377:378:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "string-input-231:383:382:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "string-input-231:429:485:430:13": {
+            "type": "string",
+            "default": "Age",
+            "description": "Enter Description",
+            "example": "Age"
+        },
+        "string-input-231:383:382:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "multiple-selection-231:429:476:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:429:485:430:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "single-selection-231:429:458:377:112:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "multiple-selection-231:429:459:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "single-selection-231:429:458:377:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:397:281:16:10": {
+            "type": "string",
+            "default": "ILOSTAT, Annual Population, 2024",
+            "description": "Enter Description",
+            "example": "ILOSTAT, Annual Population, 2024"
+        },
+        "single-selection-231:383:396:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "default_1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "default_1"
+            }
+        },
+        "string-input-231:429:452:377:453:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "multiple-selection-430:234": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Wage gap of workers earning above minimum wage but below decent living wage"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Wage gap of workers earning above minimum wage but below decent living wage"
+                ]
+            }
+        },
+        "string-input-231:429:452:377:453:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "multiple-selection-456:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Brazilian arabica coffee",
+                    "Brazilian robusta coffee",
+                    "Colombian arabica coffee",
+                    "Ethiopian arabica coffee",
+                    "Indian arabica coffee",
+                    "Indonesian robusta coffee",
+                    "Kenyan arabica coffee",
+                    "Peruvian arabica coffee",
+                    "Rwandan arabica coffee",
+                    "Tanzanian arabica coffee",
+                    "Ugandan arabica coffee",
+                    "Vietnamian robusta coffee"
+                ]
+            }
+        },
+        "single-selection-231:429:451:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Children in child labour by sex, age and economic activity"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Children in child labour by sex, age and economic activity"
+            }
+        },
+        "string-input-231:429:458:377:468:71:13": {
+            "type": "string",
+            "default": "Unit",
+            "description": "Enter Description",
+            "example": "Unit"
+        },
+        "string-input-231:383:397:281:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:458:377:468:71:10": {
+            "type": "string",
+            "default": "%",
+            "description": "Enter Description",
+            "example": "%"
+        },
+        "single-selection-268:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "dash"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "dash"
+            }
+        },
+        "single-selection-450:25:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "factors"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "factors"
+            }
+        },
+        "multiple-selection-231:429:486:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "multiple-selection-231:429:435:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "multiple-selection-231:429:478:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "single-selection-231:430:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Brazilian robusta coffee"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Brazilian robusta coffee"
+            }
+        },
+        "string-input-231:429:479:431:13": {
+            "type": "string",
+            "default": "Impact Category",
+            "description": "Enter Description",
+            "example": "Impact Category"
+        },
+        "string-input-231:383:394:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:479:431:10": {
+            "type": "string",
+            "default": "Livelihoods",
+            "description": "Enter Description",
+            "example": "Livelihoods"
+        },
+        "string-input-231:383:394:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Cattle milk, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Cattle milk, 2022"
+        },
+        "single-selection-231:429:451:241": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "5-17"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "5-17"
+            }
+        },
+        "string-input-231:383:412:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "multiple-selection-231:435:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Brazilian arabica coffee"
+                ]
+            }
+        },
+        "single-selection-231:384:442:377:396:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "ecocost"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "ecocost"
+            }
+        },
+        "single-selection-231:429:458:377:473:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Fertility"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Fertility"
+            }
+        },
+        "multiple-selection-231:452:234": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Biodiversity restoration through Reforestation"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Biodiversity restoration through Reforestation",
+                    "Carbon Offsetting through Reforestation"
+                ]
+            }
+        },
+        "single-selection-231:429:458:377:467:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:412:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022"
+        },
+        "string-input-231:429:452:377:382:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "single-selection-231:383:406:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:27:452:429:10": {
+            "type": "string",
+            "default": "2021",
+            "description": "Enter Description",
+            "example": "2021"
+        },
+        "string-input-231:383:413:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "single-selection-231:429:424:377:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:27:452:429:13": {
+            "type": "string",
+            "default": "Years",
+            "description": "Enter Description",
+            "example": "Years"
+        },
+        "string-input-231:383:413:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:429:461:88:25:15:10": {
+            "type": "string",
+            "default": "Production",
+            "description": "Enter Description",
+            "example": "Production"
+        },
+        "string-input-231:429:424:453:16:13": {
+            "type": "string",
+            "default": "Age",
+            "description": "Enter Description",
+            "example": "Age"
+        },
+        "string-input-231:429:424:453:16:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "string-input-231:429:452:377:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:461:88:25:15:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "single-selection-231:384:442:377:397:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "richness"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "richness"
+            }
+        },
+        "string-input-231:429:452:377:462:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:364:236": {
+            "type": "string",
+            "default": "Health - Pesticides",
+            "description": "Enter Description",
+            "example": "Health - Pesticides"
+        },
+        "single-selection-231:429:456:457:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Legal-Hours"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Legal-Hours"
+            }
+        },
+        "string-input-231:429:458:377:21:73:13": {
+            "type": "string",
+            "default": "Proxy",
+            "description": "Enter Description",
+            "example": "Proxy"
+        },
+        "string-input-231:383:428:282:14:10": {
+            "type": "string",
+            "default": "Coffee, Robusta",
+            "description": "Enter Description",
+            "example": "Coffee, Robusta"
+        },
+        "string-input-231:429:458:377:21:73:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:383:428:282:14:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:429:424:377:386:19:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:429:424:377:387:392:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "multiple-selection-453:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Brazilian arabica coffee",
+                    "Brazilian robusta coffee",
+                    "Colombian arabica coffee",
+                    "Ethiopian arabica coffee",
+                    "Indian arabica coffee",
+                    "Indonesian robusta coffee",
+                    "Kenyan arabica coffee",
+                    "Peruvian arabica coffee",
+                    "Rwandan arabica coffee",
+                    "Tanzanian arabica coffee",
+                    "Ugandan arabica coffee",
+                    "Vietnamian robusta coffee"
+                ]
+            }
+        },
+        "string-input-231:429:424:377:387:392:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "string-input-231:429:458:377:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:458:377:382:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:424:377:386:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "string-input-231:429:424:377:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "new-header-231:27:426:377:378:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "single-selection-231:383:390:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:429:424:377:382:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:452:377:462:19:13": {
+            "type": "string",
+            "default": "Labels",
+            "description": "Enter Description",
+            "example": "Labels"
+        },
+        "single-selection-231:429:452:377:85:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:429:458:377:21:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "selection-471:221": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Paper"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Paper"
+            }
+        },
+        "single-selection-231:383:395:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:429:458:377:21:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:399:400:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:383:399:400:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "selection-debug-481:478": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Brazilian arabica coffee",
+                    "Brazilian robusta coffee",
+                    "Kenyan arabica coffee",
+                    "Colombian arabica coffee",
+                    "Ethiopian arabica coffee",
+                    "Indian arabica coffee",
+                    "Indonesian robusta coffee",
+                    "Peruvian arabica coffee",
+                    "Rwandan arabica coffee",
+                    "Tanzanian arabica coffee",
+                    "Ugandan arabica coffee",
+                    "Vietnamian robusta coffee"
+                ]
+            }
+        },
+        "single-selection-231:429:462:377:85:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "single-selection-231:385:424:377:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Coffee"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Coffee"
+            }
+        },
+        "string-input-231:383:428:282:278:10": {
+            "type": "string",
+            "default": "Coffee, Arabica",
+            "description": "Enter Description",
+            "example": "Coffee, Arabica"
+        },
+        "string-input-231:383:413:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022"
+        },
+        "string-input-231:383:413:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:428:282:278:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:384:445:236": {
+            "type": "string",
+            "default": "Land-use",
+            "description": "Enter Description",
+            "example": "Land-use"
+        },
+        "string-input-231:385:424:377:21:16:10": {
+            "type": "string",
+            "default": "Sustainability Impact Metrics (a spin-off of Delft University of Technology), Consumer Health: internalities of food in economics and I-eco-costs, 2016",
+            "description": "Enter Description",
+            "example": "Sustainability Impact Metrics (a spin-off of Delft University of Technology), Consumer Health: internalities of food in economics and I-eco-costs, 2016"
+        },
+        "string-input-231:386:236": {
+            "type": "string",
+            "default": "Biodiversity",
+            "description": "Enter Description",
+            "example": "Biodiversity"
+        },
+        "string-input-231:385:424:377:21:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:412:401:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "single-selection-231:429:462:377:86:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "single-selection-485:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "offeset"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "offeset"
+            }
+        },
+        "string-input-231:383:389:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "string-input-231:383:382:401:27:25": {
+            "type": "string",
+            "default": "Lyngbæk, A.E., Muschler, R. & sinclair, F.L. Productivity and profitability of multistrata organic versus conventional coffee farms in Costa Rica. Agroforestry Systems 53, 205–213 (2001). https://doi.org/10.1023/A:1013332722014",
+            "description": "Enter Description",
+            "example": "Lyngbæk, A.E., Muschler, R. & sinclair, F.L. Productivity and profitability of multistrata organic versus conventional coffee farms in Costa Rica. Agroforestry Systems 53, 205–213 (2001). https://doi.org/10.1023/A:1013332722014"
+        },
+        "string-input-231:429:452:457:99:187:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:389:400:10": {
+            "type": "string",
+            "default": "Cocoa",
+            "description": "Enter Description",
+            "example": "Cocoa"
+        },
+        "string-input-231:384:447:21:13": {
+            "type": "string",
+            "default": "Impact Category",
+            "description": "Enter Description",
+            "example": "Impact Category"
+        },
+        "string-input-231:383:389:400:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "single-selection-231:429:452:377:105:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:384:447:21:10": {
+            "type": "string",
+            "default": "Biodiversity",
+            "description": "Enter Description",
+            "example": "Biodiversity"
+        },
+        "string-input-231:429:452:457:99:187:16:10": {
+            "type": "string",
+            "default": "Our World in data, Average weekly working hours of children, 2024",
+            "description": "Enter Description",
+            "example": "Our World in data, Average weekly working hours of children, 2024"
+        },
+        "new-header-231:27:424:377:386:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "single-selection-231:27:364:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Fine particulate matter formation"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Fine particulate matter formation"
+            }
+        },
+        "single-selection-231:429:475:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Children in work by age and not attending school"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Children in work by age and not attending school"
+            }
+        },
+        "string-input-231:383:412:401:10": {
+            "type": "string",
+            "default": "Soya milk",
+            "description": "Enter Description",
+            "example": "Soya milk"
+        },
+        "string-input-231:429:456:377:105:92:16:10": {
+            "type": "string",
+            "default": "World Bank, Annual Population, 2024",
+            "description": "Enter Description",
+            "example": "World Bank, Annual Population, 2024"
+        },
+        "string-input-231:383:407:401:10": {
+            "type": "string",
+            "default": "Oat milk",
+            "description": "Enter Description",
+            "example": "Oat milk"
+        },
+        "string-input-231:383:407:401:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:429:456:377:105:92:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "multiple-selection-231:429:467:431": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "default": "Blue planet brazilian arabica coffee"
+                    }
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": [
+                    "Blue planet brazilian arabica coffee",
+                    "Brazilian arabica coffee",
+                    "Rainforest alliance cocoa",
+                    "Via verde brazilian arabica coffee"
+                ]
+            }
+        },
+        "string-input-231:429:452:377:452:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:429:452:377:452:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:383:386:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:458:377:471:73:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:383:385:282:278:10": {
+            "type": "string",
+            "default": "Coffee, Robusta",
+            "description": "Enter Description",
+            "example": "Coffee, Robusta"
+        },
+        "string-input-231:384:447:16:13": {
+            "type": "string",
+            "default": "Stage",
+            "description": "Enter Description",
+            "example": "Stage"
+        },
+        "single-selection-231:429:456:457:124:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "default_1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "default_1"
+            }
+        },
+        "string-input-231:429:461:88:25:77:10": {
+            "type": "string",
+            "default": "%",
+            "description": "Enter Description",
+            "example": "%"
+        },
+        "single-selection-231:27:428:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Fine particulate matter formation"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Fine particulate matter formation"
+            }
+        },
+        "single-selection-231:429:458:377:474:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Workspan"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Workspan"
+            }
+        },
+        "string-input-231:383:385:282:278:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:429:461:88:25:77:13": {
+            "type": "string",
+            "default": "Unit",
+            "description": "Enter Description",
+            "example": "Unit"
+        },
+        "single-selection-231:383:388:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "new-header-231:385:424:377:21:1:861": {
+            "type": "integer",
+            "default": 0,
+            "description": "Select the row number of the new header",
+            "example": 0
+        },
+        "string-input-231:429:461:107:19:10": {
+            "type": "string",
+            "default": "Share of employed working 49 or more hours per week",
+            "description": "Enter Description",
+            "example": "Share of employed working 49 or more hours per week"
+        },
+        "string-input-231:429:461:107:19:13": {
+            "type": "string",
+            "default": "Indicator",
+            "description": "Enter Description",
+            "example": "Indicator"
+        },
+        "single-selection-231:429:461:87:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:386:16:10": {
+            "type": "string",
+            "default": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022",
+            "description": "Enter Description",
+            "example": "FAOSTAT, Crops and livestock products, Yield, Sugarbeet and sugarcane, 2022"
+        },
+        "string-input-231:384:442:377:382:16:10": {
+            "type": "string",
+            "default": "Sustainability Impact Metrics (a spin-off of Delft University of Technology), The eco-costs of land-use, 2024",
+            "description": "Enter Description",
+            "example": "Sustainability Impact Metrics (a spin-off of Delft University of Technology), The eco-costs of land-use, 2024"
+        },
+        "string-input-231:429:461:88:25:16:10": {
+            "type": "string",
+            "default": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024",
+            "description": "Enter Description",
+            "example": "International Labour Organization. ILO modelled estimates database, ILOSTAT. https://ilostat.ilo.org/data/. Accessed 14-10-2024"
+        },
+        "string-input-231:384:442:377:382:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:429:461:88:25:16:13": {
+            "type": "string",
+            "default": "Reference",
+            "description": "Enter Description",
+            "example": "Reference"
+        },
+        "string-input-231:384:447:450:13": {
+            "type": "string",
+            "default": "Data quality (country specific)",
+            "description": "Enter Description",
+            "example": "Data quality (country specific)"
+        },
+        "string-input-231:383:428:282:424:10": {
+            "type": "string",
+            "default": "Coffee, Robusta",
+            "description": "Enter Description",
+            "example": "Coffee, Robusta"
+        },
+        "string-input-231:384:447:450:10": {
+            "type": "string",
+            "default": "yes",
+            "description": "Enter Description",
+            "example": "yes"
+        },
+        "string-input-231:450:429:13": {
+            "type": "string",
+            "default": "Gender",
+            "description": "Enter Description",
+            "example": "Gender"
+        },
+        "single-selection-450:51": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "United States"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "United States"
+            }
+        },
+        "string-input-231:383:385:282:14:10": {
+            "type": "string",
+            "default": "Coffee, Arabica",
+            "description": "Enter Description",
+            "example": "Coffee, Arabica"
+        },
+        "string-input-231:383:428:282:424:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:383:385:282:14:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:450:429:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "string-input-231:383:386:400:13": {
+            "type": "string",
+            "default": "Product",
+            "description": "Enter Description",
+            "example": "Product"
+        },
+        "string-input-231:383:394:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:383:386:400:10": {
+            "type": "string",
+            "default": "Sugar",
+            "description": "Enter Description",
+            "example": "Sugar"
+        },
+        "string-input-231:383:394:21:13": {
+            "type": "string",
+            "default": "Production Method",
+            "description": "Enter Description",
+            "example": "Production Method"
+        },
+        "single-selection-231:383:408:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:383:389:21:10": {
+            "type": "string",
+            "default": "conventional",
+            "description": "Enter Description",
+            "example": "conventional"
+        },
+        "string-input-231:450:430:13": {
+            "type": "string",
+            "default": "Age",
+            "description": "Enter Description",
+            "example": "Age"
+        },
+        "single-selection-231:429:364:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Wage gap of workers earning below minimum wage"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Wage gap of workers earning below minimum wage"
+            }
+        },
+        "string-input-231:450:430:10": {
+            "type": "string",
+            "default": "Total",
+            "description": "Enter Description",
+            "example": "Total"
+        },
+        "string-input-231:384:447:400:10": {
+            "type": "string",
+            "default": "none",
+            "description": "Enter Description",
+            "example": "none"
+        },
+        "string-input-231:384:447:400:13": {
+            "type": "string",
+            "default": "Proxy",
+            "description": "Enter Description",
+            "example": "Proxy"
+        },
+        "single-selection-231:429:457:50": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Prevalence of Forced workers in situations of debt bondage"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Prevalence of Forced workers in situations of debt bondage"
+            }
+        },
+        "single-selection-231:429:451:235": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Total"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Total"
+            }
+        },
+        "single-selection-231:429:452:377:95:28": {
+            "type": "object",
+            "properties": {
+                "variable_value": {
+                    "type": "string",
+                    "default": "Sheet1"
+                }
+            },
+            "description": "Enter Description",
+            "example": {
+                "variable_value": "Sheet1"
+            }
+        },
+        "string-input-231:384:447:16:10": {
+            "type": "string",
+            "default": "Production",
+            "description": "Enter Description",
+            "example": "Production"
+        },
+        "string-input-231:429:458:377:471:73:13": {
+            "type": "string",
+            "default": "Proxy",
+            "description": "Enter Description",
+            "example": "Proxy"
+        }
+    }
+}

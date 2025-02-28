@@ -1,0 +1,18 @@
+Agricultural land occupation:agricultural land occupation - ALOP
+Global warming:climate change - GWP100
+Fossil resource scarcity:fossil depletion - FDP
+Freshwater ecotoxicity:freshwater ecotoxicity - FETPinf
+Freshwater eutrophication:freshwater eutrophication - FEP
+Human toxicity:human toxicity - HTPinf
+Ionising radiation:ionising radiation - IRP_HE
+Marine ecotoxicity:marine ecotoxicity - METPinf
+Marine eutrophication:marine eutrophication - MEP
+Metal depletion:metal depletion - MDP
+Natural land transformation:natural land transformation - NLTP
+Stratospheric ozone depletion:ozone depletion - ODPinf
+Fine particulate matter formation:particulate matter formation - PMFP
+Photochemical oxidant formation:photochemical oxidant formation - POFP
+Terrestrial acidification:terrestrial acidification - TAP100
+Terrestrial ecotoxicity:terrestrial ecotoxicity - TETPinf
+Urban land occupation:urban land occupation - ULOP
+Water consumption:water depletion - WDP

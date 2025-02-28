@@ -1,0 +1,6 @@
+Roast and ground:Coffee, roast and ground, at plant
+Decaffeination:Decaffeination, green coffee, supercritical CO2 process (WFLDB 3.1)
+Cocoa processing:Cocoa beans processing, at plant (WFLDB 3.1)
+Sugar extraction:Extraction of sugar from beet, processing - FR
+Soybean beverage:Soybean beverage, at plant - FR
+Almond beverage:Almond milk derived from almond beverage, at plant - FR

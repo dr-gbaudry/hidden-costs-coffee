@@ -1,0 +1,2 @@
+compost:treatment of biowaste, industrial composting | compost | Cutoff, U
+industrial-composting:treatment of biowaste, industrial composting | biowaste | Cutoff, U

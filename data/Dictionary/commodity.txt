@@ -1,0 +1,10 @@
+Agricultural land
+Cocoa beans
+Coffee beans
+Cropland
+Sugarbeet:Sugar beet
+Sugarcane:Sugar cane
+Cow milk:Raw milk of cattle
+Oat:Oats
+Soybeans: Soya beans
+Almond:Almonds, in shell

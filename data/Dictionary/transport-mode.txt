@@ -1,0 +1,16 @@
+Road: market for transport, freight, lorry 3.5-7.5 metric ton, EURO1 | transport, freight, lorry 3.5-7.5 metric ton, EURO1 | Cutoff, U
+Road:market for transport, freight, lorry >32 metric ton, EURO1 | transport, freight, lorry >32 metric ton, EURO1 | Cutoff, U
+Road:market for transport, freight, lorry >32 metric ton, EURO6 | transport, freight, lorry >32 metric ton, EURO6 | Cutoff, U
+Sea:market for transport, freight, sea, bulk carrier for dry goods | transport, freight, sea, bulk carrier for dry goods | Cutoff, U
+Road waste-collection:municipal waste collection service by 21 metric ton lorry | municipal waste collection service by 21 metric ton lorry | Cutoff, U
+Road:transport, freight, lorry 16-32 metric ton, EURO3 | transport, freight, lorry 16-32 metric ton, EURO3 | Cutoff, U
+Road:transport, freight, lorry 16-32 metric ton, EURO4 | transport, freight, lorry 16-32 metric ton, EURO4 | Cutoff, U
+Road:transport, freight, lorry 16-32 metric ton, EURO6 | transport, freight, lorry 16-32 metric ton, EURO6 | Cutoff, U
+Road:transport, freight, lorry 3.5-7.5 metric ton, EURO5 | transport, freight, lorry 3.5-7.5 metric ton, EURO5 | Cutoff, U
+Road:transport, freight, lorry 3.5-7.5 metric ton, EURO6 | transport, freight, lorry 3.5-7.5 metric ton, EURO6 | Cutoff, U
+Road:transport, freight, lorry 7.5-16 metric ton, EURO1 | transport, freight, lorry 7.5-16 metric ton, EURO1 | Cutoff, U
+Road:transport, freight, lorry 7.5-16 metric ton, EURO3 | transport, freight, lorry 7.5-16 metric ton, EURO3 | Cutoff, U
+Road:transport, freight, lorry 7.5-16 metric ton, EURO4 | transport, freight, lorry 7.5-16 metric ton, EURO4 | Cutoff, U
+Road:transport, freight, lorry 7.5-16 metric ton, EURO5 | transport, freight, lorry 7.5-16 metric ton, EURO5 | Cutoff, U
+Road:market for transport, freight, lorry with refrigeration machine, 7.5-16 ton, EURO5, R134a refrigerant, cooling | transport, freight, lorry with refrigeration machine, 7.5-16 ton, EURO5, R134a refrigerant, cooling | Cutoff, U - GLO
+Road:transport, freight, light commercial vehicle | transport, freight, light commercial vehicle | Cutoff, U

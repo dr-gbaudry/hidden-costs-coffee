@@ -1,0 +1,10 @@
+kg oil eq:kg oil-Eq
+kg 1,4-DCB:kg 1,4-DCB-Eq
+kg P eq:kg P-Eq
+kg CO2 eq:kg CO2-Eq
+kg 1,4-DCB:kg 1,4-DCB-Eq
+kg N eq:kg N-Eq
+kg Fe eq:kg Fe-Eq
+kg CFC11 eq:kg CFC-11-Eq
+kg SO2 eq:kg SO2-Eq
+kg PM10 eq:kg PM10-Eq

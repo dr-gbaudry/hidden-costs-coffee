@@ -1,0 +1,6 @@
+Coffee, Arabica:arabica_loss
+Cocoa beans:cocoa_loss
+Palm oil:oil_palm_loss
+Pasture:pasture_loss
+Coffee, Robusta:rovusta_loss
+Soybeans:soy_loss

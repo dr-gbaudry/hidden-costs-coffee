@@ -1,0 +1,17 @@
+Cocoa: Cocoa beans, sun-dried, at farm (WFLDB 3.1)/kg - CI
+Coffee, Robusta: Coffee bean (Robusta), depulped, Brazil, at farm gate/kg - BR
+Cow milk, semi-skimmed, UHT: Milk, semi-skimmed, UHT, processed in FR | Ambient (average) | HDPE | No preparation | at consumer - FR
+Coffee, Arabica:coffee green bean production, arabica
+Coffee, Arabica:coffee green bean production, arabica - CO
+Coffee, Arabica:coffee green bean production, arabica - IN
+Coffee, Arabica:coffee green bean production, arabica - RoW
+Coffee, Robusta:coffee green bean production, robusta | coffee, green bean | Cutoff, U - ID
+Coffee, Robusta:coffee green bean production, robusta | coffee, green bean | Cutoff, U - RoW
+Coffee, Robusta:coffee green bean production, robusta | coffee, green bean | Cutoff, U - VN
+Sugar:sugar beet production - CH
+Cocoa: Cocoa beans, sun-dried, at farm (WFLDB 3.1)/kg - GH
+Coffee, Robusta:coffee green bean production, robusta | coffee, green bean | Cutoff, U - IN
+Milk, powder, skimmed, non rehydrated:Milk, powder, skimmed, non rehydrated, at plant - FR
+Soya milk:Soybean milk derived from soybean beverage, at plant - FR
+Almond milk:Almond milk derived from almond beverage, at plant - FR
+Oat milk:Oat milk derived from oat, consumption mix - FR

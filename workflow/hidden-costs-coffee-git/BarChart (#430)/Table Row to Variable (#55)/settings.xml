@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack">
+        <config key="Variable_0">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="RowID"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value=""/>
+        </config>
+        <config key="Variable_1">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(selection)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="RowID"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="Row0"/>
+        </config>
+        <config key="Variable_3">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(selection)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="100"/>
+                <entry key="0" type="xstring" value="Agricultural land occupation"/>
+                <entry key="1" type="xstring" value="Aldicarb"/>
+                <entry key="2" type="xstring" value="Azoxystrobin"/>
+                <entry key="3" type="xstring" value="Boscalid"/>
+                <entry key="4" type="xstring" value="Buprofezin"/>
+                <entry key="5" type="xstring" value="Carbendazim"/>
+                <entry key="6" type="xstring" value="Carbofuran"/>
+                <entry key="7" type="xstring" value="Carbon Offsetting through Reforestation"/>
+                <entry key="8" type="xstring" value="Cases of fatal occupational injury"/>
+                <entry key="9" type="xstring" value="Cases of non-fatal occupational injury, insured"/>
+                <entry key="10" type="xstring" value="Cases of non-fatal occupational injury, uninsured"/>
+                <entry key="11" type="xstring" value="Children in hazardous work by sex, age and economic activity (12-14)"/>
+                <entry key="12" type="xstring" value="Children in hazardous work by sex, age and economic activity (15-17)"/>
+                <entry key="13" type="xstring" value="Children in hazardous work by sex, age and economic activity (5-11)"/>
+                <entry key="14" type="xstring" value="Children in non-hazardous work by sex, age and economic activity (12-14)"/>
+                <entry key="15" type="xstring" value="Children in non-hazardous work by sex, age and economic activity (15-17)"/>
+                <entry key="16" type="xstring" value="Children in non-hazardous work by sex, age and economic activity (5-11)"/>
+                <entry key="17" type="xstring" value="Children in work by age and not attending school (5-14)"/>
+                <entry key="18" type="xstring" value="Chlorantraniliprole"/>
+                <entry key="19" type="xstring" value="Chlorpyrifos"/>
+                <entry key="20" type="xstring" value="Clothianidin"/>
+                <entry key="21" type="xstring" value="Cyantraniliprole"/>
+                <entry key="22" type="xstring" value="Cyhalothrin"/>
+                <entry key="23" type="xstring" value="Cypermethrins"/>
+                <entry key="24" type="xstring" value="Cyproconazole"/>
+                <entry key="25" type="xstring" value="Diquat"/>
+                <entry key="26" type="xstring" value="Disulfoton"/>
+                <entry key="27" type="xstring" value="Eco-costs of land-use (Brazil), deforestation-related"/>
+                <entry key="28" type="xstring" value="Eco-costs of land-use (Brazil), practice-related"/>
+                <entry key="29" type="xstring" value="Eco-costs of land-use (Colombia), deforestation-related"/>
+                <entry key="30" type="xstring" value="Eco-costs of land-use (Colombia), practice-related"/>
+                <entry key="31" type="xstring" value="Eco-costs of land-use (Ethiopia), deforestation-related"/>
+                <entry key="32" type="xstring" value="Eco-costs of land-use (Ethiopia), practice-related"/>
+                <entry key="33" type="xstring" value="Eco-costs of land-use (India), deforestation-related"/>
+                <entry key="34" type="xstring" value="Eco-costs of land-use (India), practice-related"/>
+                <entry key="35" type="xstring" value="Eco-costs of land-use (Indonesia), deforestation-related"/>
+                <entry key="36" type="xstring" value="Eco-costs of land-use (Indonesia), practice-related"/>
+                <entry key="37" type="xstring" value="Eco-costs of land-use (Kenya), deforestation-related"/>
+                <entry key="38" type="xstring" value="Eco-costs of land-use (Kenya), practice-related"/>
+                <entry key="39" type="xstring" value="Eco-costs of land-use (Peru), deforestation-related"/>
+                <entry key="40" type="xstring" value="Eco-costs of land-use (Peru), practice-related"/>
+                <entry key="41" type="xstring" value="Eco-costs of land-use (Rwanda), deforestation-related"/>
+                <entry key="42" type="xstring" value="Eco-costs of land-use (Rwanda), practice-related"/>
+                <entry key="43" type="xstring" value="Eco-costs of land-use (Tanzania), deforestation-related"/>
+                <entry key="44" type="xstring" value="Eco-costs of land-use (Tanzania), practice-related"/>
+                <entry key="45" type="xstring" value="Eco-costs of land-use (Uganda), deforestation-related"/>
+                <entry key="46" type="xstring" value="Eco-costs of land-use (Uganda), practice-related"/>
+                <entry key="47" type="xstring" value="Eco-costs of land-use (Vietnam), deforestation-related"/>
+                <entry key="48" type="xstring" value="Eco-costs of land-use (Vietnam), practice-related"/>
+                <entry key="49" type="xstring" value="Endosulfan"/>
+                <entry key="50" type="xstring" value="Female workers without maternity leave provision"/>
+                <entry key="51" type="xstring" value="Fenpropathrin"/>
+                <entry key="52" type="xstring" value="Fine particulate matter formation"/>
+                <entry key="53" type="xstring" value="Flutriafol"/>
+                <entry key="54" type="xstring" value="Fossil resource scarcity"/>
+                <entry key="55" type="xstring" value="Freshwater ecotoxicity"/>
+                <entry key="56" type="xstring" value="Freshwater eutrophication"/>
+                <entry key="57" type="xstring" value="Global warming"/>
+                <entry key="58" type="xstring" value="Glufosinate-Ammonium"/>
+                <entry key="59" type="xstring" value="Haloxyfop"/>
+                <entry key="60" type="xstring" value="Human carcinogenic toxicity"/>
+                <entry key="61" type="xstring" value="Human non-carcinogenic toxicity"/>
+                <entry key="62" type="xstring" value="Human toxicity"/>
+                <entry key="63" type="xstring" value="Imidacloprid"/>
+                <entry key="64" type="xstring" value="Informal employment rate of agricultural workers &amp; uncovered by social protection floors/systems"/>
+                <entry key="65" type="xstring" value="Ionising radiation"/>
+                <entry key="66" type="xstring" value="Ionizing radiation"/>
+                <entry key="67" type="xstring" value="Land use"/>
+                <entry key="68" type="xstring" value="Marine ecotoxicity"/>
+                <entry key="69" type="xstring" value="Marine eutrophication"/>
+                <entry key="70" type="xstring" value="Metal depletion"/>
+                <entry key="71" type="xstring" value="Mineral resource scarcity"/>
+                <entry key="72" type="xstring" value="Natural land transformation"/>
+                <entry key="73" type="xstring" value="Ozone formation, Human health"/>
+                <entry key="74" type="xstring" value="Ozone formation, Terrestrial ecosystems"/>
+                <entry key="75" type="xstring" value="Permethrin"/>
+                <entry key="76" type="xstring" value="Phorate"/>
+                <entry key="77" type="xstring" value="Photochemical oxidant formation"/>
+                <entry key="78" type="xstring" value="Prevalence of Forced workers in situations of debt bondage"/>
+                <entry key="79" type="xstring" value="Prevalence of excessive working time"/>
+                <entry key="80" type="xstring" value="Prevalence of modern slavery (forced workers, most severe)"/>
+                <entry key="81" type="xstring" value="Propiconazole"/>
+                <entry key="82" type="xstring" value="Pyraclostrobin"/>
+                <entry key="83" type="xstring" value="Saflufenacil"/>
+                <entry key="84" type="xstring" value="Spirodiclofen"/>
+                <entry key="85" type="xstring" value="Stratospheric ozone depletion"/>
+                <entry key="86" type="xstring" value="Tebuconazole"/>
+                <entry key="87" type="xstring" value="Terbufos"/>
+                <entry key="88" type="xstring" value="Terrestrial acidification"/>
+                <entry key="89" type="xstring" value="Terrestrial ecotoxicity"/>
+                <entry key="90" type="xstring" value="Thiamethoxam"/>
+                <entry key="91" type="xstring" value="Triadimefon"/>
+                <entry key="92" type="xstring" value="Triadimenol"/>
+                <entry key="93" type="xstring" value="Urban land occupation"/>
+                <entry key="94" type="xstring" value="Wage gap from gender discrimination"/>
+                <entry key="95" type="xstring" value="Wage gap of workers earning above minimum wage but below decent living wage"/>
+                <entry key="96" type="xstring" value="Wage gap of workers earning below minimum wage"/>
+                <entry key="97" type="xstring" value="Water consumption"/>
+                <entry key="98" type="xstring" value="Women with denied maternity leave"/>
+                <entry key="99" type="xstring" value="Workers without paid leave provision"/>
+            </config>
+        </config>
+    </config>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="missing_value_policy_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="missing_value_policy" type="xstring" value="DEFAULT"/>
+        <config key="default_value_string_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="default_value_string" type="xstring" value="missing"/>
+        <config key="default_value_boolean_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="default_value_boolean" type="xstring" value="false"/>
+        <config key="default_value_integer_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="default_value_integer" type="xint" value="0"/>
+        <config key="default_value_long_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMN_long"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="default_value_long" type="xlong" value="0"/>
+        <config key="default_value_double_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="default_value_double" type="xdouble" value="0.0"/>
+        <config key="column_selection_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_columnfilter"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="column_selection">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="List(Country)"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist">
+                    <entry key="org.knime.core.data.collection.ListDataValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+                </config>
+            </config>
+        </config>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory"/>
+    <entry key="node-name" type="xstring" value="Table Row to Variable"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="4.5.1.v202201171147"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="4.5.2.v202203141441"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Table Row to Variable"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
+            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="ebcbe2f0-0e22-496a-8306-4ec22460aafb"/>
+    </config>
+</config>
